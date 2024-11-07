@@ -1,0 +1,24 @@
+{
+  "activities": [
+    {
+      "id": "1",
+      "title": "Workout",
+      "description": "Complete a 30-minute workout session"
+    },
+    {
+      "id": "a5d8",
+      "title": "Belajar React redux",
+      "description": "Complete a 60-minute workout session"
+    },
+    {
+      "id": "7727",
+      "title": "Memancing",
+      "description": "Complete a 30-minute Fsihing session"
+    },
+    {
+      "id": "f7c9",
+      "title": "Bermain Bola",
+      "description": "Complete a 90-minute football session"
+    }
+  ]
+}
